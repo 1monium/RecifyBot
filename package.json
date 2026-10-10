@@ -1,0 +1,9 @@
+{
+  "name": "recifybot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RecifyBot Discord bot",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
